@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vmadalin:easypermissions-ktx:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5274b9768ae9ca877c3c668919eb935c/transformed/easypermissions-ktx-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5274b9768ae9ca877c3c668919eb935c/transformed/easypermissions-ktx-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5274b9768ae9ca877c3c668919eb935c/transformed/easypermissions-ktx-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vmadalin/easypermissions-ktx/1.0.0/e07998c524857c07dc5f47ca50b1d944c9a5a41e/easypermissions-ktx-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vmadalin/easypermissions-ktx/1.0.0/daea4000d19fddc27e738a44d2f1d4476b169df7/easypermissions-ktx-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
